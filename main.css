@@ -1,0 +1,25 @@
+h1 {
+    color: brown;
+}
+#encabezado {
+    background-color: azure;
+}
+h2 {
+    color: blue;
+}
+
+.styled-table thead tr {
+    background-color: greenyellow;
+    color: rgb(255, 255, 255);
+}
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+    border: 1px solid #C2D4EC;
+}
+h3 {
+    color: rgb(231, 169, 36)
+}
+h4 {
+    color: rgb(86, 226, 43);
+}
