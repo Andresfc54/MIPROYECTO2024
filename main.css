@@ -5,12 +5,12 @@ h1 {
     background-color: azure;
 }
 h2 {
-    color: blue;
+    color: rgba(0, 0, 255, 0.849);
 }
 
 .styled-table thead tr {
     background-color: greenyellow;
-    color: rgb(255, 255, 255);
+    color: rgba(255, 255, 255, 0.973);
 }
 .styled-table th,
 .styled-table td {
@@ -18,8 +18,8 @@ h2 {
     border: 1px solid #C2D4EC;
 }
 h3 {
-    color: rgb(231, 169, 36)
+    color: rgb(231, 212, 36)
 }
 h4 {
-    color: rgb(86, 226, 43);
+    color: rgb(156, 226, 43);
 }
